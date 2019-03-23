@@ -3,8 +3,8 @@ require 'sinatra/activerecord/rake'
 
 
  namespace :db do	task :console do
-
    Pry.start
+ end
 #
 # namespace :db do
 #
